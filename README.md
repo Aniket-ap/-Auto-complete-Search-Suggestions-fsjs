@@ -1,4 +1,4 @@
-# **Searchbar with Auto Complete Suggestion** [![demo](https://img.shields.io/badge/Live-orange)](https://search-autocomplete-fsjs.netlify.app/) ![Made with Javascript](https://img.shields.io/badge/MADE%20WITH-HTML%26CSS-blue)
+# **Searchbar with Auto Complete Suggestion** [![demo](https://img.shields.io/badge/Live-orange)](https://search-autocomplete-fsjs.netlify.app/) ![Made with Javascript](https://img.shields.io/badge/MADE%20WITH-JAVASCRIPT-blue)
 
 ## Screenshot
 
